@@ -1,4 +1,12 @@
-### Hi there 👋
+#### 안녕하세요! 웹 개발자를 꿈꾸는 정수아입니다👋 
+#### 현재 자바스크립트와 리액트를 공부중이고 앞으로 이곳에 공부한 내용과 프로젝트들을 정리하려고 해요🌱
+#### 오늘 못해도 내일은 할 수 있는 개발자가 되는걸 목표로 하고 있습니다 😄
+
+#### Available Skills 📚
+<div>
+<img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Android-brightgreen?style=flat-square&logo=Android&logoColor=white"/>
+</div>
 
 <!--
 **SuaJeong-winter/SuaJeong-winter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
